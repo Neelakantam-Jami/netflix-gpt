@@ -1,1 +1,1 @@
-# Movie Streaming App - GPT
+# Netflix - GPT
